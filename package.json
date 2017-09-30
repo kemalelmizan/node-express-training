@@ -1,0 +1,25 @@
+{
+  "name": "node-express-training",
+  "version": "1.0.0",
+  "description": "node express training",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/kemalelmizan/node-express-training"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "training"
+  ],
+  "dependencies": {
+    "express": "latest",
+    "pug": "^2.0.0-rc.4"
+  },
+  "author": "kemalelmizan",
+  "license": "MIT"
+}
